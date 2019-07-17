@@ -2,7 +2,7 @@
 ===========================
 ![](https://img.shields.io/badge/Python-3.6.3-green.svg) ![](https://img.shields.io/badge/requests-2.18.4-green.svg) ![](https://img.shields.io/badge/PyExecJS-1.5.1-green.svg) 
 
-|Author|:sunglasses:Henryhaohao/Onct:sunglasses:|
+|Author|Henryhaohao/Onct|
 |---|---
 
 ****
