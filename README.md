@@ -1,10 +1,9 @@
-各大音乐/FM平台歌曲下载API集合 ![enter image description here](Pic/logo.png)
+各大音乐/FM平台歌曲下载API集合 ![enter image description here]
 ===========================
 ![](https://img.shields.io/badge/Python-3.6.3-green.svg) ![](https://img.shields.io/badge/requests-2.18.4-green.svg) ![](https://img.shields.io/badge/PyExecJS-1.5.1-green.svg) 
 
-|Author|:sunglasses:Henryhaohao:sunglasses:|
+|Author|:sunglasses:Henryhaohao/Onct:sunglasses:|
 |---|---
-|Email|:hearts:1073064953@qq.com:hearts:
 
 ****
 ## :dolphin:声明
@@ -48,9 +47,9 @@ Version: Python3
 
 
 ## :dolphin: **修正维护**
-> - 仍生效的： 网易云 千千百度 酷我 echo回声 九天音乐 365音乐 一听 5sing 唱吧
-> - 失效的： 酷狗 虾米 QQ（服务器不在提供服务）咪咕音乐 mvbox 喜马拉雅FM 豆瓣FM 荔枝FM
-> - 准备修复的： QQ音乐 虾米 酷狗
+> - 仍生效的： 网易云 千千百度 酷我 echo回声 九天音乐 365音乐 一听 5sing 唱吧 QQ
+> - 失效的： 酷狗 虾米 咪咕音乐 mvbox 喜马拉雅FM 豆瓣FM 荔枝FM
+> - 准备修复的： 虾米 酷狗
 > -  可能修复： 喜马拉雅FM 豆瓣FM 荔枝FM
 
 
